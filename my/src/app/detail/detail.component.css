@@ -1,0 +1,29 @@
+.p{
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+    background-color: bisque;
+   
+}
+.o{
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+    background-color: rgb(250, 198, 134);
+    margin-left: 400px;
+   
+
+}
+.r{
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+    background-color: rgb(251, 172, 76);
+}
+.u{
+    width: 270px;
+    height: 45px;
+    border-radius: 25px;
+    background-color: rgb(248, 71, 71);
+    margin-left: 100px;
+}

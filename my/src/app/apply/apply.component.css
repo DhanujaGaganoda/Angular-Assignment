@@ -1,0 +1,53 @@
+.y{
+    background-color: chartreuse;
+    width: 700px;
+    height: 5px;
+}
+.u{
+    background-color: chartreuse;
+    width: 600px;
+    height: 4px
+}
+.i{
+    background-color: chartreuse;
+    width: 500px;
+    height: 3px
+}
+.o{
+    background-color: chartreuse;
+    width: 400px;
+    height: 2px
+}
+.p{
+    background-color: chartreuse;
+    width: 300px;
+    height: 1px
+}
+.q{
+    width: 350px;
+    height:600px;
+    background-color: rgb(249, 246, 69);
+    border-radius: 100px;
+    margin-left: 300px;
+}
+.e{
+    margin-left: 70px;
+}
+.tr{
+    margin:0;
+    padding: 0;
+}
+.home{
+    margin:0;
+    padding: 0;
+}
+.tr{
+    width: 900px;
+    height: 500px;
+    background-repeat: no-repeat;
+    margin: bottom 20px;
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
